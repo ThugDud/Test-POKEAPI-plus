@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(180deg, #173A50 40%, #1B2838 99%);
+    background: -webkit-linear-gradient(180deg, #173A50 40%, #1B2838 99%);
+    background: -moz-linear-gradient(180deg, #173A50 40%, #1B2838 99%);
+}
+
+.homeBase {
+    padding: 10px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gameInt {
+    width: 70vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.YtInt {
+    padding: 30px;
+    position: absolute;
+}
+
+.PopAnim {
+    width: 60vw;
+    padding: 20px;
+    min-height: 1000px;
+}

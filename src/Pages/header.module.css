@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-style: normal;
+}
+
+.Link {
+    text-decoration: none;
+}
+
+.Link:visited {
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #171D25;
+    width: 100%;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+}
+
+
+
+.thumbHead {
+    height: 75px;
+    width: 75px;
+    margin-right: 20px;
+}
+
+.thumb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.thumb2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 500px;
+}

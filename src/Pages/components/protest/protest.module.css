@@ -1,0 +1,21 @@
+.Container {
+    height: 70px;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(47, 126, 190, 1) 0%, rgba(28, 57, 126, 1) 79%);
+    box-shadow: 0px 0px 36px 13px rgba(0, 0, 0, 0.26);
+    -webkit-box-shadow: 0px 0px 36px 13px rgba(0, 0, 0, 0.26);
+    -moz-box-shadow: 0px 0px 36px 13px rgba(0, 0, 0, 0.26);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vw;
+    width: 80%;
+}
+
+.inputSRCH {
+    height: 70px;
+    position: absolute;
+    right: 21vw;
+    width: 200px;
+    padding-left: 20px;
+}

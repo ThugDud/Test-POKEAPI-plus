@@ -1,0 +1,10 @@
+.body {
+    background: linear-gradient(180deg, #173A50 40%, #1B2838 99%);
+    background: -webkit-linear-gradient(180deg, #173A50 40%, #1B2838 99%);
+    background: -moz-linear-gradient(180deg, #173A50 40%, #1B2838 99%);
+    padding: 10px;
+    min-height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
